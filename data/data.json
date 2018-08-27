@@ -1,0 +1,29 @@
+{
+  "friends": [{
+    "title" : "Class Friend",
+    "name": "KAJAL ",
+    "shortname" : "kajal",
+    "summary" : "INTRO",
+    "description": "<p>kajal was born in Hapur </p>"
+    },{
+    "title" : "Best Friend ",
+    "name": "SAGAR",
+    "shortname" : "sagar",
+    "summary": "INTRO",
+    "description": "<p>Manpreet was born in Merut</p>"
+  },{
+    "title" : "@",
+    "name": "^_^",
+    "shortname" : "abhijeet",
+    "summary": "INTRO",
+    "description": "<p>He was born in Haryana</p>"
+
+  },{
+    "title" : "School Friend",
+     "name" : "Akash",
+     "shortname" : "akash",
+
+     "summary" :"INTRO",
+     "description" : "<p> akash was born in Pilkhuwa</p>"
+  }]
+}
